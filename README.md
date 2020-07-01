@@ -60,8 +60,6 @@ More documentation and info at:
 * [https://atled.readthedocs.io/en/latest/](https://atled.readthedocs.io/en/latest/)
 * [https://www.sciencedirect.com](https://www.sciencedirect.com/topics/engineering/parallel-manipulator)
 * [https://link.springer.com](https://link.springer.com/chapter/10.1007/978-3-319-31126-5_2)
-* [https://www.gnu.org/software/bash/manual/](https://www.gnu.org/software/bash/manual/)
-* [https://httpd.apache.org/docs/2.4/developer/modguide.html](https://httpd.apache.org/docs/2.4/developer/modguide.html)
 
 ### COPYRIGHT AND LICENCE
 
