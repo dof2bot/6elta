@@ -1,10 +1,5 @@
-ATLED
+atled
 ------
-
-.. toctree::
- :hidden:
-
- self
 
 **atled** is variant of parallel manipulator.
 
@@ -25,26 +20,35 @@ other information that should be provided before the tool is installed.
 .. |Documentation Status| image:: https://readthedocs.org/projects/atled/badge/?version=latest
    :target: https://atled.readthedocs.io/projects/atled/en/latest/?badge=latest
 
-INSTALLATION
+.. toctree::
+   :hidden:
+
+   self
+
+Installation
 -------------
+
+|Debian Linux OS|
+
+.. |Debian Linux OS| image:: https://raw.githubusercontent.com/dof2bot/atled/dev/docs/debtux.png
 
 Navigate to release `page`_ download and extract release archive.
 
 .. _page: https://github.com/dof2bot/atled/releases
 
-To install **atled** type the following:
+To install **atled** type the following
 
 .. code-block:: bash
 
    in progress
 
-DEPENDENCIES
+Dependencies
 -------------
 
-**atled** requires next modules and libraries:
+**atled** requires next modules and libraries
     in progress
 
-PROJECT STRUCTURE
+Project structure
 ------------------
 
 **atled** is based on POP.
@@ -53,7 +57,7 @@ PROJECT STRUCTURE
 
    in progress
 
-COPYRIGHT AND LICENCE
+Copyright and licence
 ----------------------
 
 |License: GPL v3| |License: Apache 2.0|

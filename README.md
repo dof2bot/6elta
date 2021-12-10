@@ -26,7 +26,7 @@ other information that should be provided before the tool is installed.
 
 Navigate to release [page](https://github.com/dof2bot/atled/releases) download and extract release archive.
 
-To install **atled** follow next instructions:
+To install **atled** follow next instructions
 ```
 in progress
 ```
@@ -40,7 +40,7 @@ in progress
 
 ### DEPENDENCIES
 
-**atled** requires next modules and libraries:
+**atled** requires next modules and libraries
 ```
 in progress
 ```
@@ -56,7 +56,7 @@ in progress
 
 [![Documentation Status](https://readthedocs.org/projects/atled/badge/?version=latest)](https://atled.readthedocs.io/projects/atled/en/latest/?badge=latest)
 
-More documentation and info at:
+More documentation and info at
 * [https://atled.readthedocs.io/en/latest/](https://atled.readthedocs.io/en/latest/)
 * [https://www.sciencedirect.com](https://www.sciencedirect.com/topics/engineering/parallel-manipulator)
 * [https://link.springer.com](https://link.springer.com/chapter/10.1007/978-3-319-31126-5_2)
