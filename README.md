@@ -1,3 +1,5 @@
+<img align="right" src="https://raw.githubusercontent.com/dof2bot/atled/master/docs/atled_logo.png" width="25%">
+
 # atled - Δelta
 
 **atled** is variant of parallel manipulator.
