@@ -24,7 +24,7 @@ other information that should be provided before the tool is installed.
 - [Copyright and Licence](#copyright-and-licence)
 <!-- END doctoc -->
 
-### INSTALLATION
+### Installation
 
 Navigate to release [page](https://github.com/dof2bot/atled/releases) download and extract release archive.
 
@@ -33,28 +33,28 @@ To install **atled** follow next instructions
 in progress
 ```
 
-### USAGE
+### Usage
 
 Planned in picking and packaging in micro-factories.
 ```
 in progress
 ```
 
-### DEPENDENCIES
+### Dependencies
 
 **atled** requires next modules and libraries
 ```
 in progress
 ```
 
-### PROJECT STRUCTURE
+### Project structure
 
 **atled** is based on POP.
 ```
 in progress
 ```
 
-### DOCS
+### Docs
 
 [![Documentation Status](https://readthedocs.org/projects/atled/badge/?version=latest)](https://atled.readthedocs.io/projects/atled/en/latest/?badge=latest)
 
@@ -63,7 +63,7 @@ More documentation and info at
 * [https://www.sciencedirect.com](https://www.sciencedirect.com/topics/engineering/parallel-manipulator)
 * [https://link.springer.com](https://link.springer.com/chapter/10.1007/978-3-319-31126-5_2)
 
-### COPYRIGHT AND LICENCE
+### Copyright and licence
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
